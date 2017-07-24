@@ -1,0 +1,14 @@
+<!DOCTUPE html>
+<head>
+<meta charset= "UTF-8"><link rel="stylesheet" type="text/css" href="css.css"> <title>Р—Р°РґР°С‡Р°</title><style>
+</style>
+</head>
+<body>
+<div> Добро пожаловать в сборник задач</div>
+<div>Решонный задачи</div><div>Нерешоные</div>
+<div><a href="zadacha.php">Попытаться решить</a>
+<a href="formaReg.php">Регистрацыя</a>
+<a href="formaZadachi.php">Внести задачу</a>
+<a href="formaAdmin.php">Если Вы админ</a>
+</div>
+</body></html>
